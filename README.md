@@ -10,4 +10,4 @@ https://carmenli14.github.io/Lab5-1/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/carmenli14/github-actions-for-ci/issues/7
